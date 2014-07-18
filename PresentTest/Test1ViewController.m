@@ -37,8 +37,8 @@
 }
 
 - (void)buttonPressed {
-    [((ViewController *)_delegate).tabBarController.navigationController popToRootViewControllerAnimated:NO];
-    [((ViewController *)_delegate).tabBarController.navigationController dismissViewControllerAnimated:NO completion:nil];
+    [((ViewController *)_delegate).tabBarController.navigationController popToRootViewControllerAnimated:YES];
+    [((ViewController *)_delegate).tabBarController.navigationController dismissViewControllerAnimated:YES completion:nil];
 }
 
 - (void)didReceiveMemoryWarning

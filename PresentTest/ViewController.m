@@ -29,7 +29,7 @@
 
 - (void)showPresent {
     Test1ViewController *controller1 = [[Test1ViewController alloc] init];
-    [self.tabBarController.navigationController pushViewController:controller1 animated:NO];
+    [self.tabBarController.navigationController pushViewController:controller1 animated:YES];
     
     Test1ViewController *controller = [[Test1ViewController alloc] init];
     controller.delegate = self;
