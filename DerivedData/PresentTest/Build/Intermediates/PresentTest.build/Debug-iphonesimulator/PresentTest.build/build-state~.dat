@@ -1,395 +1,0 @@
-TPresentTest
-v6
-r1
-cCheck dependencies
-cProcessPCH /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.pch PresentTest/PresentTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o /Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o /Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o /Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o /Users/Bohan/Downloads/PresentTest/PresentTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest normal i386
-cCopyStringsFile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/en.lproj/InfoPlist.strings PresentTest/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/Bohan/Downloads/PresentTest/PresentTest/Base.lproj/Main.storyboard
-cCompileAssetCatalog /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app /Users/Bohan/Downloads/PresentTest/PresentTest/Images.xcassets
-cProcessInfoPlistFile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Info.plist /Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Info.plist
-cGenerateDSYMFile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest
-cTouch /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
-c0000000053119F8A0000000000000198
-t1393663882
-s408
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
-c0000000053513AA500000000000003B4
-t1397832357
-s948
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
-c0000000053513AAE000000000000019E
-t1397832366
-s414
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000053513AB30000000000446820
-t1397832371
-s4483104
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000053513AB5000000000088D8C0
-t1397832373
-s8968384
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000053513ABA0000000001F1DE10
-t1397832378
-s32628240
-
-N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
-c0000000053513AF40000000000000ADC
-t1397832436
-s2780
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.pch
-t1405660110
-s116052
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o
-t1405660111
-s62376
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/PresentTest.LinkFileList
-c0000000053C8ABCD00000000000002B0
-t1405660109
-s688
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o
-t1405660111
-s49448
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o
-t1405660111
-s55924
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o
-t1405660111
-s3532
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/assetcatalog_dependencies.txt
-t1405660112
-s450
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/assetcatalog_generated_info.plist
-t1405660112
-s525
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app
-t1405660112
-s306
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM
-t2
-s0
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Base.lproj/Main.storyboardc
-t1405660112
-s238
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Info.plist
-t1405660112
-s1044
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PkgInfo
-t1405660112
-s8
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest
-t1405660111
-s24024
-
-N/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/en.lproj/InfoPlist.strings
-t1405660111
-s42
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m
-c0000000053C7B69400000000000007D8
-t1405597332
-s2008
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/Base.lproj/Main.storyboard
-c0000000053C7B9460000000000001AA1
-t1405598022
-s6817
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/Images.xcassets
-c0000000053C8ABB60000000000000088
-t1405660086
-s136
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Info.plist
-c0000000053C7B69400000000000004DC
-t1405597332
-s1244
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Prefix.pch
-c0000000053C7B6940000000000000158
-t1405597332
-s344
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m
-c0000000053C7B95D0000000000000616
-t1405598045
-s1558
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m
-c0000000053C7BCC0000000000000080A
-t1405598912
-s2058
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/en.lproj/InfoPlist.strings
-c0000000053C7B694000000000000002D
-t1405597332
-s45
-
-N/Users/Bohan/Downloads/PresentTest/PresentTest/main.m
-c0000000053C7B6940000000000000152
-t1405597332
-s338
-
-CBuild AST from /Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m
-r0
-
-CBuild AST from /Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m
-r0
-
-CBuild AST from /Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m
-r0
-
-CBuild AST from /Users/Bohan/Downloads/PresentTest/PresentTest/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies058a5c4de378b941^4223644de378b941^---0#1#1#--18"Check dependencies36"2130B13B-0AC0-4464-961C-5CC5E5B19FA9-
-
-CCompileAssetCatalog /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app /Users/Bohan/Downloads/PresentTest/PresentTest/Images.xcassets
-s427352911.077452
-e427352912.504900
-r1
-xCompileAssetCatalog
-x/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app
-x/Users/Bohan/Downloads/PresentTest/PresentTest/Images.xcassets
-o/* com.apple.actool.compilation-results */
-o/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/LaunchImage-700-568h@2x.png
-o/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Assets.car
-o/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/assetcatalog_generated_info.plist
-o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app PresentTest/Images.xcassets124"CompileAssetCatalog DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app PresentTest/Images.xcassetsbde4134fe378b941^63418150e378b941^-478"/* com.apple.actool.compilation-results *//Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/LaunchImage-700-568h@2x.png/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Assets.car/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Bohan/Downloads/PresentTest/PresentTest/Images.xcassets/0000000000000000^1246"CompileAssetCatalog DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app PresentTest/Images.xcassets    cd /Users/Bohan/Downloads/PresentTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app /Users/Bohan/Downloads/PresentTest/PresentTest/Images.xcassets36"38FD743D-322B-4597-A36D-A15B6A6CAF9E-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o /Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s427352910.936928
-e427352911.046118
-r1
-xCompileC
-xDerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o
-x/Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m
-d/Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m238"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o PresentTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdc2af04ee378b941^3ecf0b4fe378b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m0000000000000000^4017"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o PresentTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Bohan/Downloads/PresentTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Bohan/Downloads/PresentTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-generated-files.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-own-target-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-all-target-headers.hmap -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-project-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources/i386 -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources -F/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator -include /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch -MMD -MT dependencies -MF /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.m -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o36"990597B7-E56C-4A4C-A7EE-20FF80A7D46E-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o /Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s427352910.935988
-e427352911.044459
-r1
-xCompileC
-xDerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o
-x/Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m
-d/Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.h
-d/Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m254"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o PresentTest/Test1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler37c5ef4ee378b941^0f620b4fe378b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m0000000000000000^4065"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o PresentTest/Test1ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Bohan/Downloads/PresentTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Bohan/Downloads/PresentTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-generated-files.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-own-target-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-all-target-headers.hmap -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-project-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources/i386 -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources -F/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator -include /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch -MMD -MT dependencies -MF /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.d --serialize-diagnostics /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.dia -c /Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.m -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o36"2A21F87A-D742-43FB-8AE9-62538FFD9094-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o /Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s427352910.936460
-e427352911.043204
-r1
-xCompileC
-xDerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o
-x/Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m
-d/Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.h
-d/Users/Bohan/Downloads/PresentTest/PresentTest/Test1ViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m244"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o PresentTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler83daef4ee378b941^d00f0b4fe378b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m0000000000000000^4035"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o PresentTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Bohan/Downloads/PresentTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Bohan/Downloads/PresentTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-generated-files.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-own-target-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-all-target-headers.hmap -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-project-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources/i386 -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources -F/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator -include /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch -MMD -MT dependencies -MF /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.dia -c /Users/Bohan/Downloads/PresentTest/PresentTest/ViewController.m -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o36"50049F12-6FD9-44B9-B159-3D650FDE0120-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CCompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o /Users/Bohan/Downloads/PresentTest/PresentTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s427352910.937569
-e427352911.010609
-r1
-xCompileC
-xDerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o
-x/Users/Bohan/Downloads/PresentTest/PresentTest/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Bohan/Downloads/PresentTest/PresentTest/main.m
-d/Users/Bohan/Downloads/PresentTest/PresentTest/AppDelegate.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/Bohan/Downloads/PresentTest/PresentTest/main.m224"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o PresentTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd32f04ee378b941^dcb7024fe378b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/Bohan/Downloads/PresentTest/PresentTest/main.m0000000000000000^3975"CompileC DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o PresentTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Bohan/Downloads/PresentTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Bohan/Downloads/PresentTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-generated-files.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-own-target-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-all-target-headers.hmap -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-project-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources/i386 -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources -F/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator -include /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch -MMD -MT dependencies -MF /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.dia -c /Users/Bohan/Downloads/PresentTest/PresentTest/main.m -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o36"F8512A5B-DCEB-48F4-977D-D99308F0A238-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CCompileStoryboard /Users/Bohan/Downloads/PresentTest/PresentTest/Base.lproj/Main.storyboard
-s427352911.077006
-e427352912.815618
-r1
-xCompileStoryboard
-x/Users/Bohan/Downloads/PresentTest/PresentTest/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard PresentTest/Base.lproj/Main.storyboard56"CompileStoryboard PresentTest/Base.lproj/Main.storyboardeace134fe378b941^53cdd050e378b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Bohan/Downloads/PresentTest/PresentTest/Base.lproj/Main.storyboard0000000000000000^863"CompileStoryboard PresentTest/Base.lproj/Main.storyboard    cd /Users/Bohan/Downloads/PresentTest    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Base.lproj/Main.storyboardc /Users/Bohan/Downloads/PresentTest/PresentTest/Base.lproj/Main.storyboard36"E696492F-8C8E-4A3C-AF3A-F3E221F977FD-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CCopyStringsFile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/en.lproj/InfoPlist.strings PresentTest/en.lproj/InfoPlist.strings
-s427352911.076825
-e427352911.151034
-r1
-xCopyStringsFile
-x/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/en.lproj/InfoPlist.strings
-xPresentTest/en.lproj/InfoPlist.strings
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy PresentTest/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/en.lproj/InfoPlist.strings PresentTest/en.lproj/InfoPlist.stringscac2134fe378b941^9faa264fe378b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Bohan/Downloads/PresentTest/PresentTest/en.lproj/InfoPlist.strings0000000000000000^649"CopyStringsFile DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/en.lproj/InfoPlist.strings PresentTest/en.lproj/InfoPlist.strings    cd /Users/Bohan/Downloads/PresentTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/en.lproj -- PresentTest/en.lproj/InfoPlist.strings36"7B04A02E-018D-4C53-ABEB-A8940CF46D7A-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CGenerateDSYMFile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest
-s427352912.844927
-e427352912.892643
-r1
-xGenerateDSYMFile
-x/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM
-x/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM187"GenerateDSYMFile DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest9a5cd850e378b941^d784e450e378b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM0034a850dfffdf42^769"GenerateDSYMFile DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest    cd /Users/Bohan/Downloads/PresentTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app.dSYM36"6C37E01F-82AA-4D86-99ED-C6F9892DAF22-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CLd /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest normal i386
-s427352911.046821
-e427352911.075952
-r1
-xLd
-x/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest
-xnormal
-xi386
-d/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/PresentTest.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
-d/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/Test1ViewController.o
-d/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/ViewController.o
-d/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/AppDelegate.o
-d/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/main.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
-d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
-d/usr/lib/system/libcache.dylib
-d/usr/lib/system/libcommonCrypto.dylib
-d/usr/lib/system/libcompiler_rt.dylib
-d/usr/lib/system/libcopyfile.dylib
-d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libkeymgr.dylib
-d/usr/lib/system/liblaunch.dylib
-d/usr/lib/system/libmacho.dylib
-d/usr/lib/system/libquarantine.dylib
-d/usr/lib/system/libremovefile.dylib
-d/usr/lib/system/libsystem_asl.dylib
-d/usr/lib/system/libsystem_blocks.dylib
-d/usr/lib/system/libsystem_c.dylib
-d/usr/lib/system/libsystem_configuration.dylib
-d/usr/lib/system/libsystem_dnssd.dylib
-d/usr/lib/system/libsystem_info.dylib
-d/usr/lib/system/libsystem_kernel.dylib
-d/usr/lib/system/libsystem_m.dylib
-d/usr/lib/system/libsystem_malloc.dylib
-d/usr/lib/system/libsystem_notify.dylib
-d/usr/lib/system/libsystem_platform.dylib
-d/usr/lib/system/libsystem_pthread.dylib
-d/usr/lib/system/libsystem_sandbox.dylib
-d/usr/lib/system/libunc.dylib
-d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest103"Ld DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest normal i3860f0c0c4fe378b941^b472134fe378b941^---0#0#1#--1549"Ld DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest normal i386    cd /Users/Bohan/Downloads/PresentTest    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator -F/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator -filelist /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/PresentTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/Objects-normal/i386/PresentTest_dependency_info.dat -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PresentTest36"A0507677-AE46-4001-B569-00678ADEEDB3-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CProcessInfoPlistFile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Info.plist /Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Info.plist
-s427352912.816204
-e427352912.844315
-r1
-xProcessInfoPlistFile
-x/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Info.plist
-x/Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Info.plist143"ProcessInfoPlistFile DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Info.plist PresentTest/PresentTest-Info.plist350ad150e378b941^c827d850e378b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Info.plist0000000000000000^994"ProcessInfoPlistFile DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Info.plist PresentTest/PresentTest-Info.plist    cd /Users/Bohan/Downloads/PresentTest    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Info.plist -genpkginfo /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/assetcatalog_generated_info.plist -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app/Info.plist36"F7DC1A58-1908-49B9-A3B8-C34698497F3E-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CProcessPCH /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.pch PresentTest/PresentTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s427352909.391914
-e427352910.935116
-r1
-xProcessPCH
-x/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.pch
-xPresentTest/PresentTest-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Prefix.pch
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile PresentTest/PresentTest-Prefix.pch251"ProcessPCH DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.pch PresentTest/PresentTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercb68644de378b941^a566ef4ee378b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Prefix.pch0000000000000000^3870"ProcessPCH DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.pch PresentTest/PresentTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Bohan/Downloads/PresentTest    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Bohan/Downloads/PresentTest/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-generated-files.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-own-target-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-all-target-headers.hmap -iquote /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/PresentTest-project-headers.hmap -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources/i386 -I/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PresentTest.build/Debug-iphonesimulator/PresentTest.build/DerivedSources -F/Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.d -c /Users/Bohan/Downloads/PresentTest/PresentTest/PresentTest-Prefix.pch -o /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Intermediates/PrecompiledHeaders/PresentTest-Prefix-hhnaoceiapklqvchsljmtejfoubg/PresentTest-Prefix.pch.pch36"0ACB45B4-9D4F-4D44-8A75-2A1F94F0DBAB-
-b563F1B82-A6CD-4D40-A13E-2FFC5CE0DE95
-
-CProcessPCH /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Index/PrecompiledHeaders/PresentTest-Prefix-aimfvhaheapoxbeqbnhueozmphfw_ast/PresentTest-Prefix.pch.pch PresentTest/PresentTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/Bohan/Downloads/PresentTest/DerivedData/PresentTest/Build/Products/Debug-iphonesimulator/PresentTest.app
-r0
-
